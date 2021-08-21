@@ -1,0 +1,9 @@
+@lxpanel --profile LXDE-pi
+@pcmanfm --desktop --profile LXDE-pi
+
+lxterminal -e /home/pi/Desktop/autostart.sh
+
+@xscreensaver -no-splash
+@unclutter -idel 0.1
+
+/usr/bin/chromium-browser --kiosk --noerrors --disable-session-crashed-bubble --disable-infobars --app=http://localhost:3000/d/g4bjj7gRz/new1?orgId=1&refresh=5s&kiosk=tv

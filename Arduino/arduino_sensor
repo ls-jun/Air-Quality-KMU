@@ -1,0 +1,13 @@
+I2C (SCL SDA VCC GND)
+BME280 v1.0 (온도, 습도, 대기압)
+  https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/
+multichannel gas sensor v1.0 (CO, NO2, C2H6OH, H2, NH3, CH4, C3H8, C4H10)
+  https://wiki.seeedstudio.com/Grove-Multichannel_Gas_Sensor/
+  
+아날로그 핀 (pin numer ' A.out : 2)
+tg100 (co2_ppm, co2_mv)
+  http://www.trueyes.co.kr/tg100.html
+  
+디지털 핀 (pin number ' TX : 10, RX : 11) 
+pms7003m (pm1.0, pm2.5, pm10)
+  https://download.kamami.pl/p564008-PMS7003%20series%20data%20manua_English_V2.5.pdf
