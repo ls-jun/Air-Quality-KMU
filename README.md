@@ -5,10 +5,10 @@
 ---
 
 ### 0. **개요**
-raspberry - arduino를 활용하여 IOT환경에서 실내 공기질 센서 데이터를 측정, 수집, 관리한다.
-prometheus - grafana를 연동하여 데이터를 시각화하여 실시간 모니터링 또한 가능하게 한다.
-autostart와 screensaver를 활용하여 실행에 편의성을 부여한다.
-시스템 과부화 및 전력소모 방지를 위해 일정 시간마다 모니터를 on/off한다.
+- raspberry - arduino를 활용하여 IOT환경에서 실내 공기질 센서 데이터를 측정, 수집, 관리한다.
+- prometheus - grafana를 연동하여 데이터를 시각화하여 실시간 모니터링 또한 가능하게 한다.
+- autostart와 screensaver를 활용하여 실행에 편의성을 부여한다.
+- 시스템 과부화 및 전력소모 방지를 위해 일정 시간마다 모니터를 on/off한다.
 
 ---
 
